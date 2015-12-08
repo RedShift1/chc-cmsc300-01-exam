@@ -25,3 +25,11 @@ proguard/
 
 # Log Files
 *.log
+
+
+# IntelliJ
+.idea/workspace.xml
+.idea/
+
+# Windows
+Thumbs.db
